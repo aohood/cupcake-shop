@@ -1,0 +1,27 @@
+h1.intro{
+width: 50%;
+font-style: italic;
+color: red;
+}
+p.chief{
+  color: blue;
+  font-style:italic;
+  width: 80%;
+  font-weight: bold;
+}
+
+ul{
+  font-style: normal;
+  font-weight: Bold;
+  color: Gray;
+}
+p.important{
+  color: red;
+  font-style: italic;
+  width: 50%;
+  font-weight: lighter;
+}
+p{
+width: 50%;
+font-style:normal;
+}
