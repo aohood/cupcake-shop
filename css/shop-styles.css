@@ -1,7 +1,7 @@
 h1.intro{
-width: 50%;
-font-style: italic;
-color: red;
+  width: 50%;
+  font-style: italic;
+  color: red;
 }
 p.chief{
   color: blue;
@@ -15,13 +15,12 @@ ul{
   font-weight: Bold;
   color: Gray;
 }
-p.important{
+.flashy{
   color: red;
   font-style: italic;
-  width: 50%;
-  font-weight: lighter;
 }
-p{
-width: 50%;
-font-style:normal;
+.best{
+  color: Blue;
+  font-style: italic; Bold;
+
 }
